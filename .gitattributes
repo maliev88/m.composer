@@ -1,0 +1,22 @@
+* text eol=lf
+*.js text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+*.ttf binary
+*.otf binary
+*.gif binary
+*.ico binary
+*.avif binary
+*.webm binary
+*.phar binary
+*.mp4 binary
+*.tif binary
+*.ogv binary
+*.dat binary
+* -lf

@@ -1,0 +1,15 @@
+{
+  "name": "lox.vendor/loc.package",
+  "description": "A short description of your project",
+  "require": {
+    "php": "^8.0 || ^8.1",
+    "marvel/marvel_integration_esb": "^1.0.0"
+  },
+  "version": "1.0.0",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://fplus-nexus.marvel.ru/repository/composer/"
+    }
+  ]
+}

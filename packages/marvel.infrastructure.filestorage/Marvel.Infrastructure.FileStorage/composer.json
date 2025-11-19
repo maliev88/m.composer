@@ -1,0 +1,22 @@
+{
+    "name": "marvel/marvel_infrastructure_filestorage",
+    "description": "Интеграции php-решений для работы с MiniO (S3)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Murad Aliev",
+            "email": "m.aliev@marvel.ru"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "php": ">=8.1",
+        "aws/aws-sdk-php": "^3.337",
+        "guzzlehttp/psr7": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Marvel\\Infrastructure\\FileStorage\\": "src/"
+        }
+    }
+}
